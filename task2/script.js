@@ -31,6 +31,9 @@ async function getImages(currentPage) {
 	}
 })();
 
+// const result = await getImages(page++);
+// renderImages(result);
+
 // getImages(page++)
 // 	.then((result) => {
 // 		renderImages(result);
